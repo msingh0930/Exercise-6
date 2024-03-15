@@ -1,3 +1,3 @@
 print("This is a demo")
 
-print("Hello, world - Added by Hannah :3")
+print("Hello, world - Added by Hannah")
